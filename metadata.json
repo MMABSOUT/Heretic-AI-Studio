@@ -1,0 +1,5 @@
+{
+  "name": "Heretic",
+  "description": "Training-free language model modification studio for refusal suppression, slop reduction, and behavioral steering via ARA & Directional Abliteration.",
+  "requestFramePermissions": []
+}
